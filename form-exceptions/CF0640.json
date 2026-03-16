@@ -1,0 +1,52 @@
+{
+    "rootName": "ListOfDtFormInstanceLw",
+    "subRoots": [
+        "FormInstance"
+    ],
+    "wrapperTags": [],
+    "allowCheckboxWithNoChange": [],
+    "omitFields": [],
+    "addFields": {
+        "ListOfPUBLead": {
+            "PUBLead": {
+                "LeadID": null,
+                "Name": null,
+                "ListOfICMCPScreeningAssessment": {
+                    "ICMCPScreeningAssessment": {
+                        "DateApproved": null,
+                        "GeneralNeglectC": null,
+                        "GeneralNeglectFlag": null,
+                        "Neglect": null,
+                        "OverrideNPRA": null,
+                        "OverrideNPRB": null,
+                        "OverridePRA": null,
+                        "OverrideReadOnlyCalc": null,
+                        "Phone": null,
+                        "PhysicalAbuseF": null,
+                        "Position": null,
+                        "ResponseNameExplanation": null,
+                        "SevereNeglectFlag": null,
+                        "SexualAbuseC": null,
+                        "TLSummary": null,
+                        "TeamLeaderPositionId": null
+                    }
+                }
+            }
+        },
+        "FormInstanceId": null,
+        "SRNum": null,
+        "CaseId": null,
+        "IncidentNo": null,
+        "SRId": null,
+        "Template": null,
+        "TemplateLocation": null
+    },
+    "versions": {
+        "1": {
+            "omitFields": []
+        },
+        "2": {
+            "omitFields": []
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "rootName": "ListOfDtFormInstanceLw",
+    "subRoots": [
+        "FormInstance"
+    ],
+    "wrapperTags": [],
+    "allowCheckboxWithNoChange": [],
+    "omitFields": [],
+    "addFields": {},
+    "versions": {
+        "1": {
+            "omitFields": []
+        },
+        "2": {
+            "omitFields": []
+        }
+    }
+}

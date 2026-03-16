@@ -1,0 +1,25 @@
+{
+    "rootName": "Results",
+    "subRoots": [],
+    "wrapperTags": [],
+    "allowCheckboxWithNoChange": [],
+    "omitFields": [],
+    "addFields": {
+        "OfficeCity": null,
+        "FormInstanceId": null,
+        "Sanctioned": null,
+        "CanadianCitizen": null,
+        "ApplicantTwoYearIndependence": null,
+        "ApplicantTwoYearRationale": null,
+        "SpouseTwoYearIndependence": null,
+        "SpouseTwoYearRationale": null
+    },
+    "versions": {
+        "1": {
+            "omitFields": []
+        },
+        "2": {
+            "omitFields": []
+        }
+    }
+}
